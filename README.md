@@ -1,2 +1,6 @@
-# FakeVirusLolReadDesc
-THIS IS FAKE. TO STOP IT USE TASK MANAGER
+IloveYou
+
+YES = nothing
+
+
+NO = lol shuts down pc
